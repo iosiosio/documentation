@@ -1,1 +1,4 @@
-$link-color: orange !default;
+// Print-only styles.
+@media print {
+  $link-color { color: orange !default; }
+}
