@@ -129,7 +129,7 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 - `gh_edit_source` is the source directory that your project files are stored in (should be the same as [site.source](https://jekyllrb.com/docs/configuration/options/))
 - `gh_edit_view_mode` is `"tree"` by default, which brings the user to the github page; switch to `"edit"` to bring the user directly into editing mode
 
-## Problem Color
+## Problem Colors
 
 ```yaml
 # Color scheme supports "light" (default) and "dark"
@@ -153,7 +153,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 
 See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.
 
-## Google Analytics
+## Known issues
 
 ```yaml
 # Google Analytics Tracking (optional)
@@ -162,7 +162,7 @@ ga_tracking: UA-5555555-55
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
 ```
 
-## Document collections
+## Issues
 
 By default, the navigation and search include normal [pages](https://jekyllrb.com/docs/pages/).
 Instead, you can also use [Jekyll collections](https://jekyllrb.com/docs/collections/) which group documents semantically together.
