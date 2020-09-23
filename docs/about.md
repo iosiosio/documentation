@@ -113,7 +113,7 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 - `gh_edit_source` is the source directory that your project files are stored in (should be the same as [site.source](https://jekyllrb.com/docs/configuration/options/))
 - `gh_edit_view_mode` is `"tree"` by default, which brings the user to the github page; switch to `"edit"` to bring the user directly into editing mode
 
-## Color scheme
+## Problem Color
 
 ```yaml
 # Color scheme supports "light" (default) and "dark"
