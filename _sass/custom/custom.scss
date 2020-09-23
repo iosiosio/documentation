@@ -1,5 +1,5 @@
 // Print-only styles.
 @media print {
-    .side-bar, .page-header { display: none; }
+    .side-bar, .page-header { color: orange; }
     .main-content { max-width: auto; margin: 1em;}
   }
