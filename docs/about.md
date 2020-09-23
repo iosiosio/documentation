@@ -8,7 +8,7 @@ nav_order: 2
 {: .no_toc }
 
 
-This is about how i built and using this documentation solution.
+This is about how i designed, built and maintain this "documentation as code" solution.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
