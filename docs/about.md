@@ -23,14 +23,14 @@ This is about how i built and using this documentation solution.
 View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
 
 
-## Site logo
+## Code hosted and managed on GitHub
 
 ```yaml
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/just-the-docs.png"
 ```
 
-## Search
+## Site delivered by GitHub Pages
 
 ```yaml
 # Enable or disable the site search
@@ -62,7 +62,7 @@ search:
   button: false
 ```
 
-## Aux links
+## Theme by Just The Docs
 
 ```yaml
 # Aux links for the upper right navigation
