@@ -1,5 +1,1 @@
-// Print-only styles.
-@media print {
-    .side-bar, .page-header { body-text-color: orange; }
-    .main-content { max-width: auto; margin: 1em;}
-  }
+$link-color: orange !default;
