@@ -24,6 +24,7 @@ View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/
 
 
 ## Code hosted and managed on GitHub
+The new GitHub repository has been created https://github.com/iosiosio/documentation \\
 
 ```yaml
 # Set a path/url to a logo that will be displayed instead of the title
