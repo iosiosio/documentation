@@ -74,7 +74,7 @@ aux_links:
 aux_links_new_tab: false
 ```
 
-## Heading anchor links
+## Custom configuration
 
 ```yaml
 # Heading anchor links appear on hover over h1-h6 tags in page content
