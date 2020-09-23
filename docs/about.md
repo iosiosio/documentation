@@ -24,7 +24,7 @@ View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/
 
 
 ## Code hosted and managed on GitHub
-New GitHub repository has been created [https://github.com/iosiosio/documentation](https://github.com/iosiosio/documentation).
+The code for this documentation is stored in the markdown files within the GitHub repository [https://github.com/iosiosio/documentation](https://github.com/iosiosio/documentation). \
 This is next
 
 ```yaml
