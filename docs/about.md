@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Configuration
-nav_order: 12
+title: About
+nav_order: 2
 ---
 
-# Configuration
+# About
 {: .no_toc }
 
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
+This is about how i built and using this documentation solution.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
