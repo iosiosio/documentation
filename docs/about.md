@@ -8,7 +8,7 @@ nav_order: 2
 {: .no_toc }
 
 
-This is about how i designed, built and maintain this "documentation as code" solution.
+These docs are almost about anything but on this page i would like to document how this documentation has been designed and maintained. This page is currently running on GitHub Pages platform which uses Jekkyl to build the static pages by default. Therefore i am using Jekkyl theme [Just the Docs](https://github.com/pmarsceill/just-the-docs) which looks awesome and have a lot of configuration options by default. 
 {: .fs-6 .fw-300 }
 
 <button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
